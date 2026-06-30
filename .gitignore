@@ -375,3 +375,7 @@ test*_no_sub*.mp4
 /backend/tools/train/release_model/
 inference.onnx
 /config/config.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
